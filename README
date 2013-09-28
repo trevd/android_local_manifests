@@ -7,6 +7,6 @@ Devices Supported:
 	
 Samsung Galaxy Tab 3 10.1 ( x86 )
 	
-repo init -u git://github.com/trevd/android_manifest.git -b cm-10.2 -m p52xx
+repo init -u git://github.com/trevd/android_manifest.git -b cm-10.2 -m p52xx.xml
        
      
