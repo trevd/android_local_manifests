@@ -1,0 +1,12 @@
+Trevd's Manifest Menagerie
+==========================
+
+This is the cm-10.2 branch
+
+Devices Supported:
+	
+Samsung Galaxy Tab 3 10.1 ( x86 )
+	
+repo init -u git://github.com/trevd/android_manifest.git -b cm-10.2 -m p52xx
+       
+     
