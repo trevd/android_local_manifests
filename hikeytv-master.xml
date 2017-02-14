@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+<remote name="trevd" fetch="https://github.com/trevd/" />
+<project path="device/linaro/hikeytv" name="android_device_linaro_hikeytv" groups="device" remote="trevd" revision="master" />
+<project path="external/keytable" name="android_external_keytable" groups="device" remote="trevd" revision="master" />
+</manifest>
